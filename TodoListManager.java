@@ -1,10 +1,3 @@
-//Haochen Miao
-//10/13/2022
-//cse 122
-//TA: Ziao Yin
-//This class is asking the user to input Todo list with
-//various different functions like, add, mark, save, etc
-//
 import java.util.*;
 import java.io.*;
 
